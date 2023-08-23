@@ -3,8 +3,6 @@
 A new Flutter project.
 
 # Images 
-![3](https://github.com/AbdAlhadi1/Flutter_Coffee_Template/assets/120032556/e4ca5e5c-c4ae-4bf8-9e59-3fe74d81b51b) 
-![4](https://github.com/AbdAlhadi1/Flutter_Coffee_Template/assets/120032556/d6c8e770-c1e2-43cb-a57f-272c161d963c)
 ![5](https://github.com/AbdAlhadi1/Flutter_Coffee_Template/assets/120032556/30a0b6dc-d1e3-48ca-81e3-d5d20c537c76)
 
 
